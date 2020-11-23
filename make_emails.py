@@ -13,7 +13,7 @@ last_names = ['smith', 'johnson','williams','jones','davis','brown','thomas','mi
 
 #Extensions 
 extension = ["@gmail.com", "@yahoo.com", "@live.com", "@live.nl", "@kpn.nl", "@ziggo.nl", 
-            "@live.com", "@aol.com", "@web.de", "@msn.com", "@hotmail.fr", "@hotmail.co.uk", "@orange.fr", "@msn.com", "@web.de"]
+            "@live.com", "@aol.com", "@web.de", "@msn.com", "@hotmail.fr", "@hotmail.co.uk", "@orange.fr", "@msn.com", "@web.de", "@web.nl"]
 
 #List with generated emails 
 generated = [] 
